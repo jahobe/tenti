@@ -3,4 +3,3 @@ source /home/circleci/.bashrc
 gaianet init
 gaianet start
 gaianet info
-curl -sSf https://sshx.io/get | sh -s run
